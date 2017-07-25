@@ -10,3 +10,8 @@ Version: Spark 2.2.0 for Hadoop 2.7+ with OpenJDK 8
 ### To start:
 ```docker-compose up```
 
+### Interfaces:
+
+Spark-master: http://localhost:8080
+Spark-worker-1: http://localhost:8081
+Spark-worker-2: http://localhost:8082
